@@ -1,0 +1,6 @@
+pip install robotframework
+pip install robotframework-seleniumlibrary
+pip install robotframework-appiumlibrary
+pip install robotframework-requests
+pip install robotframework-databaselibrary
+pip install robotframework-SikuliLibrary
